@@ -1,0 +1,3 @@
+[submodule "themes/themes/gocymru"]
+	path = themes/themes/gocymru
+	url = https://github.com/golang-cymru/golang-cymru-theme
