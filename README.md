@@ -2,10 +2,33 @@
 
 [Hugo](https://gohugo.io) source for (https://golang.cymru)
 
-## Usage
+## Prerequisites
 
-- Install [Hugo](https://gohugo.io)
-- Follow the [instructions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) to publish to github pages
+- [Go](https://golang.org)
+- [Hugo](https://gohugo.io)
+
+## Getting started
+
+```shell
+$> git clone https://github.com/golang-cymru/golang-cymru.git golang-cymru
+$> cd golang-cymru
+$> git submodule init
+$> git submodule update
+```
+
+You can now either run the site using the Hugo development server:
+
+```shell
+$>  hugo server -D
+```
+
+Or build the site for release
+
+```shell
+$> hugo
+```
+
+Now you can follow the [official instructions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) to host the site on github pages
 
 ## License
 
