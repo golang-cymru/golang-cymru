@@ -1,3 +1,7 @@
 [submodule "themes/gocymru"]
 	path = themes/gocymru
 	url = https://github.com/golang-cymru/golang-cymru-theme
+[submodule "public"]
+	path = public
+	url = git@github.com:golang-cymru/golang-cymru.github.io.git
+	branch = master
