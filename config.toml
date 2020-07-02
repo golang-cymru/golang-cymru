@@ -6,7 +6,7 @@ title = "Golang Cymru"
   extensions = ["hardLineBreak"]
 
 [params]
-  bio = "Welcome to the _golang.cymru_ homepage! We are an informal, friendly group of [Go programming language](https://golang.org/) enthusiasts based in Wales UK.\nThe group was set up so there could be a Go 1.6 launch party a little closer to home than the nearest which seemed to be London. We didn't get there but we now have our first welsh go meetup at cardiff.\nGet in touch if you are interested in setting up any other meetup groups anywhere else in the country"
+  bio = "Welcome to the _golang.cymru_ homepage! We are an informal, friendly group of [Go programming language](https://golang.org/) enthusiasts based in Wales UK.\nThe group was set up so there could be a Go 1.6 launch party a little closer to home than the nearest which seemed to be London. We didn't get there but we now have our first Welsh go meetup at cardiff.\nGet in touch if you are interested in setting up any other meetup groups anywhere else in the country"
   logo = "gopher-dragon.svg"
   copyright = "&copy; 2019 Golang Cymru\n\nWelsh Dragon Gopher curtesy of [Ashley McNamara](https://github.com/ashleymcnamara/gophers) used with kind permission"
 
